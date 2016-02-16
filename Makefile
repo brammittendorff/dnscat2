@@ -1,5 +1,5 @@
 # Makefile
-# By Ron
+# By Bram
 #
 # See LICENSE.md
 
